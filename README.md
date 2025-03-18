@@ -49,7 +49,7 @@ Men **Django** va **Django REST Framework** asosida kuchli va kengaytiriladigan 
 ### 📫 Aloqa uchun
 
 - ✉️ Email: `your_email@example.com`
-- 📨 Telegram: [@username](https://t.me/farxod_abdualiyev)
+- 📨 Telegram: [@farxod_abdualiyev](https://t.me/farxod_abdualiyev)
 - 🌐 Portfolio: [yourwebsite.com](https://portfolio-design-virid-five.vercel.app/)
 
 ---

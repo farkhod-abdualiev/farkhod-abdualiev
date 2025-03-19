@@ -1,6 +1,6 @@
 ## 👋 Salom, Men Farxod! 
 
-### 🐍 Django | 🛠️ Backend Developer
+### 🐍 Django | 🛠️ Full stack Developer
 
 Men **Django** va **Django REST Framework** asosida kuchli va kengaytiriladigan backend tizimlar ishlab chiqaman. API’lar, mikroservislar va mustahkam arxitekturali backend yechimlar yaratishni yaxshi ko‘raman. Hozirgi stack’im:
   
